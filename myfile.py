@@ -1,6 +1,6 @@
 import gpytoolbox as gpy
 print(gpy.__version__)
-import polyscope as ps
+import penguin as ps
 print(ps.np.__version__)
 import numpy as np
 print(np.__version__)
