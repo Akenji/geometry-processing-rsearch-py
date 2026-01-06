@@ -1,5 +1,7 @@
 # Geometry Processing Research in Python
+![alt text](exercise_09/images/smoothed_with_average.png)
 
+working on these exercises was a total blast! especially for a noob like me. Smoothing out surfaces was my personal favorite. Who knew geometry could be this fun? 
 ## Acknowledgments
 
 Theses projects are built based on the lessons and instructions provided by Prof Oded Stein in this excellent repository  [geometry-processing-research-in-python](https://github.com/odedstein/geometry-processing-research-in-python)  
