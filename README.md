@@ -2,7 +2,7 @@
 
 ## Acknowledgments
 
-This project is built based on the lessons and instructions provided by  [geometry-processing-research-in-python](https://github.com/odedstein/geometry-processing-research-in-python) excellent repository
+Theses projects are built based on the lessons and instructions provided by Prof Oded Stein in this excellent repository  [geometry-processing-research-in-python](https://github.com/odedstein/geometry-processing-research-in-python)  
 
 
 This is a Python tutorial for basic geometry processing in Python.
